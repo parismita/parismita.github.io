@@ -1,18 +1,22 @@
 ---
-layout: page
-title: Welcome to Lagrange!
+layout: post
+title: "Introduction!"
+author: "Parismita Das"
+categories: journal
+tags: [documentation,sample]
+image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hello, I am Parismita Das. I'm a undergraduate student in BTech program of Engineering Physics, at Indian Institute of Technology, Guwahati.
 
-### Getting Started
+My research interests lie in the application of Machine Learning and Pattern Recognition in the fields of Experimental Particle Physics. I'm currently working with Prof. Bipul Bhuyannd on an amalgamation of these areas. 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+In the past, I've worked with Prof. Torsten Horthon, Dr Alexendra Droulin and Prof. Toby Hocking on building R package for Maximum Margin Interval Trees.
 
-### Example Content
+I am also very passionate about building intelligent robots, and integrating the fields of machine learning and robotics to build useful products.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Please feel free to contact me at: 
 
-### Questions?
+E-mail: das.parismita@gmail.com, parismita@iitg.ac.in
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Mobile: +91 9435660716
