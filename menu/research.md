@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Research"
+layout: post
+title: "Research!"
 author: "Parismita Das"
+categories: journal
 tags: [documentation,sample]
 image: forest.jpg
 ---
