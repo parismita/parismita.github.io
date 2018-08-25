@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Research"
 author: "Parismita Das"
 categories: journal
