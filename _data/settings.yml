@@ -9,6 +9,7 @@ menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Academic', path: 'menu', url: 'academic.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
+- {name: 'Robotics', path: 'menu', url: 'robotics.html'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
