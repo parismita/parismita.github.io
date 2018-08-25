@@ -1,7 +1,8 @@
 
 ---
-layout: page
+layout: default
 title: Robotics
+image: spool.jpg
 ---
 <ul class="posts">
   {% for post in site.posts %}
