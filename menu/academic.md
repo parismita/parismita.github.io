@@ -38,7 +38,7 @@ These are the relevant courses I took in IIT, Guwahati.
   * Advance Machine Learning
   * Pattern Recognition and Machine Learning
   
-  * <b> Electrical and Electronics </b>
+* <b> Electrical and Electronics </b>
   * Signal Processing
   * Digital Signal Processing
   * Analog and Digital Circuits
