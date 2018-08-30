@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robotics
+title: Projects
 image: spool.jpg
 ---
 
