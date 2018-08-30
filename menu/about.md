@@ -2,7 +2,6 @@
 layout: page
 title: "Introduction!"
 author: "Parismita Das"
-categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
