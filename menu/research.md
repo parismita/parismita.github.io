@@ -15,4 +15,5 @@ The part of the  detector we are using is an electromagnetic calorimeter made of
 
 Hence we want to detect the neutral pion decay background and remove them. So that it do not interfare with the electron showers. The method of mass peak is used for the detection of the pion showers.
 
-The aim of this project is to investigate new methods based on statistics, Machine Learning, and/or image processing for detection of the two gamma showers originatying from the pion.
+The aim of this project is to investigate new methods based on statistics and machine Learning for detection of the two gamma showers originatying from the pion.
+
