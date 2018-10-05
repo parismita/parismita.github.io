@@ -4,7 +4,7 @@ title: "Research!"
 author: "Parismita Das"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: stool.jpg
 ---
 
 # Pion Mass Reconstruction
