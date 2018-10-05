@@ -16,7 +16,7 @@ title: Projects
 	</li>
 	<br/>
 	<li>
-		<a href="{{ site.baseurl }}{% post_url 2018-10-5-FAIR.md %}" style="text-decoration:none;">
+		<a href="{{ site.baseurl }}{% post_url 2018-6-29-FAIR.md %}" style="text-decoration:none;">
 		<img src="../assets/img/fair.jpg" alt="FAIR" style="float:left;width:100px;height:60px;border-color: white" border="8">
 			<p>
 				<b>
