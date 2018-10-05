@@ -45,7 +45,7 @@ These are the relevant courses I took in IIT, Guwahati.
   * Communication Systems
   * Electromagnetic Field Theory
   
- For more details , please view my transcript: [Link]()
+ For more details , please view my transcript: [Link](https://drive.google.com/file/d/0B4pPnLobYf-HWjhmb09hX09EUFk/view?usp=sharing)
  
  
   
