@@ -10,7 +10,7 @@ menu:
 - {name: 'Academic', path: 'menu', url: 'academic.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
 - {name: 'Projects', path: 'menu', url: 'projects.html'}
-- {name: 'Experince', path: 'menu', url: 'experiences.html'}
+- {name: 'Experience', path: 'menu', url: 'experiences.html'}
 - {name: 'CV', path: 'menu', url: 'cv.pdf'}
 
 
