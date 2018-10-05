@@ -11,7 +11,7 @@ menu:
 - {name: 'Research', path: 'menu', url: 'research.html'}
 - {name: 'Projects', path: 'menu', url: 'projects.html'}
 - {name: 'Experince', path: 'menu', url: 'experiences.html'}
-- {name: 'CV', path: '', url: 'cv.pdf'}
+- {name: 'CV', path: 'menu', url: 'cv.pdf'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
