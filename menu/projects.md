@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Projects
-image: spool.jpg
+title: Home
 ---
 
 {% for post in paginator.posts %}
