@@ -13,7 +13,7 @@ Here are some projects I did in past two years,
 
 * [FAIR](https://parismita.github.io/journal/FAIR.html)
 
-* [Toilet Cleaner](https://parismita.github.io/journal/FAIR.html)
+* [Toilet Cleaner](https://parismita.github.io/journal/Cleaner.html)
 
 * [Home Automation](https://parismita.github.io/journal/FAIR.html)
 
