@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic
+title: Academic!
 ---
 
 ### Education
