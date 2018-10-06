@@ -17,10 +17,16 @@ Here are some projects I did in past two years,
 
 * [Home Automation](https://parismita.github.io/journal/FAIR.html)
 
-* [Drunk State Detector](https://parismita.github.io/journal/FAIR.html)
-
 * [JSParser](https://parismita.github.io/journal/FAIR.html)
 
 * [Digital Notice Board](https://parismita.github.io/journal/FAIR.html)
 
 * [HAFMABS](https://parismita.github.io/journal/FAIR.html)
+
+* [lstm]()
+
+* [hldss]()
+
+* [ffa]()
+
+* [constrained hac]()
