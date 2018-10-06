@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research"
+title: "Research!"
 author: "Parismita Das"
 categories: journal
 tags: [documentation,sample]
