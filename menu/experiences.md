@@ -1,6 +1,6 @@
 ---
 layout: page
 title:  Experiences!
-redirect_to: /index.html
+redirect_to: index.html
 ---
 
