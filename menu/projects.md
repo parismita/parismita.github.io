@@ -7,9 +7,13 @@ tags: [documentation,sample]
 image: stool.jpg
 ---
 
-Here are some projects I did in past two years,
+Here are some projects I am currently working on,
 
 * [Raman, The Humanoid](https://parismita.github.io/journal/Raman.html)
+
+* [MMIT]()
+
+Here are some project I did in past 2 years,
 
 * [FAIR](https://parismita.github.io/journal/FAIR.html)
 
