@@ -4,7 +4,7 @@ title: "Research!"
 author: "Parismita Das"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: Selection_027.png
 ---
 
 # Simulation and Reconstruction of EM shower and neutral pion in a Plastic Scintillator Detector
@@ -20,7 +20,7 @@ acts as background as it can be easily mistaken to be an electron shower. Hence
 removal of neutral pion is very important for differentiating an electron shower from gamma shower.
 
 The aim of this project is to investigate new methods based on statistics and machine
-learning to determine the basic characteristics of π 0 like its mass, position, separation
+learning to determine the basic characteristics of π0 like its mass, position, separation
 angle between both gamma particles, momentum, kinetic energy etc.
 
 ## The Detector 
