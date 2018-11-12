@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: Selection_027.png
 ---
 
-# Simulation and Reconstruction of EM shower and neutral pion in a Plastic Scintillator Detector
+# Reconstruction of EM shower and π0 in ND Ecal
 
 Neutrinos are abundant in nature, but it is very difficult to detect the neutrinos as
 they are electrically neutral and they interact only via weak interactions. We aim
