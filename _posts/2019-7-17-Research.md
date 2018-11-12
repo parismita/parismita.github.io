@@ -4,7 +4,7 @@ title: "Research!"
 author: "Parismita Das"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: Selection_027.png
 ---
 
 # Simulation and Reconstruction of EM shower and neutral pion in a Plastic Scintillator Detector
