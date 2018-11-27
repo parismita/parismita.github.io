@@ -9,7 +9,7 @@ image: mountains.jpg
 
 Hello, I am Parismita Das. I'm a undergraduate student in BTech program of Engineering Physics, at Indian Institute of Technology, Guwahati.
 
-My research interests lie in the application of Machine Learning and Pattern Recognition in the fields of Experimental Particle Physics. I'm currently working with Prof. Bipul Bhuyannd on an amalgamation of these areas. 
+My research interests lie in the application of Machine Learning and Pattern Recognition in the fields of Experimental Particle Physics. I'm currently working with Prof. Bipul Bhuyan in an amalgamation of these areas. 
 
 In the past, I've worked with Prof. Torsten Horthon, Dr Alexendra Droulin and Prof. Toby Hocking on building R package for Maximum Margin Interval Trees.
 
