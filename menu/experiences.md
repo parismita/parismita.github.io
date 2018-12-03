@@ -4,7 +4,7 @@ title:  Experiences!
 ---
 
 {% for post in site.exp %}
-<div class="posts">
+<div class="exp">
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
