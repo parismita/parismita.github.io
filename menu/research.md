@@ -11,13 +11,14 @@ image: Selection_027.png
 
 Neutrinos are abundant in nature, but it is very difficult to detect the neutrinos as
 they are electrically neutral and they interact only via weak interactions. We aim
-to observe the electron produced due to neutrino interaction with the nucleus of
-detector material.
+to observe the neutrino oscillation from muon type neutrino to electron type neutrino 
+as it travels through matter.
 
-But there can be neutral pion production due to neutrino-nucleus interaction
-in the electromagnetic calorimeter. The gamma showers obtained from neutral pion decay
-acts as background as it can be easily mistaken to be an electron shower. Hence
-removal of neutral pion is very important for differentiating an electron shower from gamma shower.
+We want to distinguish between a gamma shower due to neutral pion decay and an electron 
+shower to determine the percentage of electron type neutrinos which already exist in the
+source beam and which are formed by neutrino oscillations. There are two major parts of 
+this project. First, optimisation of the Detector geometry. Second, The reconstruction of 
+EM showers and neutral pion decay.
 
 The aim of this project is to investigate new methods based on statistics and machine
 learning to determine the basic characteristics of π0 like its mass, position, separation
