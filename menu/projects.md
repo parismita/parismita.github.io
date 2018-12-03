@@ -11,7 +11,7 @@ Here are some projects I am currently working on,
 
 * [Raman, The Humanoid](https://parismita.github.io/journal/Raman.html)
 
-* [MMIT]()
+* [MMIT](https://aldro61.github.io/mmit/tutorials/R/)
 
 Here are some project I did in past 2 years,
 
@@ -19,18 +19,11 @@ Here are some project I did in past 2 years,
 
 * [Toilet Cleaner](https://parismita.github.io/journal/Cleaner.html)
 
-* [Home Automation](https://parismita.github.io/journal/FAIR.html)
+* [Home Automation](https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/)
 
-* [JSParser](https://parismita.github.io/journal/FAIR.html)
+* [JSParser]()
 
-* [Digital Notice Board](https://parismita.github.io/journal/FAIR.html)
+* [Digital Notice Board]()
 
-* [HAFMABS](https://parismita.github.io/journal/FAIR.html)
+* [HAFMABS]()
 
-* [lstm]()
-
-* [hldss]()
-
-* [ffa]()
-
-* [constrained hac]()
