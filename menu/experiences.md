@@ -5,7 +5,7 @@ title:  Experiences!
 
 {% for post in site.posts %}
 <div class="posts">
-  {if post.url == post_url 2018-5-5-GSoc %}
+  {% if post.url == post_url 2018-5-5-GSoc %}
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
