@@ -3,8 +3,9 @@ layout: page
 title:  Experiences!
 ---
 
-{% for post in {% post_url 2018-5-5-GSoc %} %}
+{% for post in site.posts %}
 <div class="posts">
+  {if post.url == post_url 2018-5-5-GSoc %}
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
@@ -18,6 +19,7 @@ title:  Experiences!
     <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
+{%endif%}
 {% endfor %}
 
 <!-- Pagination links -->
