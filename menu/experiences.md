@@ -5,7 +5,7 @@ title:  Experiences!
 
 {% for post in site.posts %}
 <div class="posts">
-  {% if post.date == 2018-5-5 %}
+  {% if post.title == "Experience!" %}
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
