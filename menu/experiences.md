@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  Experiences!
 ---
 
 {% for post in site.posts %}
