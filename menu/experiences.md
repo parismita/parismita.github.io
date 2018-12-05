@@ -3,7 +3,7 @@ layout: page
 title:  Experiences!
 ---
 
-{% for post in site.posts %}
+{% for post in {% post_url 2018-5-5-GSoc %} %}
 <div class="posts">
   <h1>
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
