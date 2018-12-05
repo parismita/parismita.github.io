@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+title: Home
 ---
 
 {% for post in site.posts %}
@@ -18,7 +19,7 @@ layout: page
     <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
-{%endif%}
+{% endif %}
 {% endfor %}
 
 <!-- Pagination links -->
