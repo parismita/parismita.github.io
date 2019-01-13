@@ -66,3 +66,6 @@ The Theoritical Seperation Angle plot
 The Reconstructed Seperation Angle plot.
 <img src="../assets/img/ex.png">
 
+The Pion Mass plot.
+<img src="../assets/img/mass.png">
+
