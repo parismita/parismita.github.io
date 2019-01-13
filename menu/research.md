@@ -64,7 +64,7 @@ The Theoritical Seperation Angle plot
 <img src="../assets/img/th.png">
 
 The Reconstructed Seperation Angle plot.
-<img src="../assets/img/sepangle_exp.png.png">
+<img src="../assets/img/sepangle_exp.png">
 
 The Vertex plot.
 <img src="../assets/img/vertex_sim.png">
