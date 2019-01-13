@@ -64,5 +64,11 @@ The Theoritical Seperation Angle plot
 <img src="../assets/img/th.png">
 
 The Reconstructed Seperation Angle plot.
-<img src="../assets/img/ex.png">
+<img src="../assets/img/sepangle_exp.png">
+
+The Vertex plot.
+<img src="../assets/img/vertex_sim.png">
+
+The Pion Mass plot.
+<img src="../assets/img/mass.png">
 
