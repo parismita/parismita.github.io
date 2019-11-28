@@ -7,11 +7,11 @@ tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Hello, I am Parismita Das. I'm a undergraduate student in BTech program of Engineering Physics, at Indian Institute of Technology, Guwahati.
+Hello, I am Parismita Das. I recently graduated as Bachelor of Technology in Engineering Phycis, at Indian Institute of Technology, Guwahati.
 
-My research interests lie in the application of Machine Learning and Pattern Recognition in the fields of Experimental Particle Physics. I'm currently working with Prof. Bipul Bhuyan in an amalgamation of these areas. 
+My research interests lie in application of machine learning in the field of Computer Vision. 
 
-In the past, I've worked with Prof. Torsten Horthon, Dr Alexendra Droulin and Prof. Toby Hocking on building R package for Maximum Margin Interval Trees.
+I've worked with Prof. Torsten Horthon, Dr Alexendra Droulin and Prof. Toby Hocking on building R package for Maximum Margin Interval Trees.
 
 I am also very passionate about building intelligent robots, and integrating the fields of machine learning and robotics to build useful products.
 
