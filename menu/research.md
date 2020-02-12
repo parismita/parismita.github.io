@@ -28,8 +28,6 @@ angle between both gamma particles, momentum, kinetic energy etc.
 ## The Detector 
 
 The detector that we are using to study neutral pion decay is an electromagnetic calorimeter.
-This detector, used in this project, is proposed to be used in DUNE near detector. 
-DUNE will consist of two neutrino detectors placed in the world’s most intense neutrino beam. One detector will record particle interactions near the source of the beam, at the Fermi National Accelerator Laboratory in Batavia, Illinois. A second, much larger, detector will be installed more than a kilometer underground at the Sanford Underground Research Laboratory in Lead, South Dakota — 1,300 kilometers downstream of the source.
 
 We aim to detect the muon type neutrinos content in the beam in the near detector which interacts with the detector nucleus to give neutral pion. To study the characteristics of the particles, the simulation of the real detector is
 done using Geant4 software. The detector that we are using to study neutral pion
