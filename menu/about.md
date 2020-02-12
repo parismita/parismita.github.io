@@ -15,7 +15,7 @@ As research and development work, I've worked on building R package for Maximum 
 
 As my research during Btech, I've worked on Pion detection using pattern recognition and machine learning, with Prof. Bipul Bhuyan and my fellow colleagues Maharnab Bhattacharjee and Hussain Rasiwala.
 
-I am also very passionate about building intelligent robots, and integrating the fields of machine learning and robotics to build useful products.
+I have a keen interest in building intelligent robots, and integrating the fields of machine learning and robotics to build useful products and have done several small projects related to it. I look forward to working further on this field and widen my knowledge in this area.
 
 Please feel free to contact me at: 
 
