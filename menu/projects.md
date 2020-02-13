@@ -9,7 +9,7 @@ title: Home
   </h1>
   
   <div class="thumbnail-container">
-    <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src=""></a>
+    <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src="https://aldro61.github.io/mmit/tutorials/R/Selection_017.png"></a>
   </div>
   
   <p> 
