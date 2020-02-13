@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "Projects!"
 author: "Parismita Das"
 categories: journal
 tags: [documentation,sample]
 image: stool.jpg
 ---
 
-<div class="posts">
+<div class="posts2">
   <h1>
     <a href="https://aldro61.github.io/mmit/tutorials/R/">MMIT</a>
   </h1>
@@ -16,8 +15,8 @@ image: stool.jpg
     <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src=""></a>
   </div>
   
-  <p>
-    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction. Unlike usual regression, each response in the training set is an interval of acceptable values (rather than one value). In the terminology of the survival analysis literature, this is regression with “left, right, and interval censored” output/response data.
+  <p> 
+    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://aldro61.github.io/mmit/tutorials/R/">Read more</a>
   </p>
  </div>
 
@@ -41,7 +40,21 @@ image: stool.jpg
   {% endif %}
 {% endfor %}
 
-[Home Automation](https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/)
+
+<div class="posts3">
+  <h1>
+    <a href="https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/">Home Automation</a>
+  </h1>
+  
+  <div class="thumbnail-container">
+    <a href="https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/"><img src="https://cdn.instructables.com/FDR/UT8B/IMTGE6ID/FDRUT8BIMTGE6ID.LARGE.jpg?auto=webp&fit=bounds"></a>
+  </div>
+  
+  <p> 
+    The idea of this project is to detect whenever a person leaves a room empty and if the fans or lights are on then he will get a ping on his smartphone through an app . Also, the lights and fans can be switched off by using the app itself rather than going back inside the room...<a href="https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/">Read more</a>
+  </p>
+ </div>
+
 
 
 
