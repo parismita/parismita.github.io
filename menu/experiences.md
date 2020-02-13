@@ -16,7 +16,7 @@ title: Home
   
   <p>
     {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-    <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i>  <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+    <span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
 {% endif %}
