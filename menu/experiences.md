@@ -7,7 +7,7 @@ title: Home
 <div class="posts">
   {% if post.title == "Experience!" %}
   <h1>
-    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title2 }}</a>
   </h1>
   
   <div class="thumbnail-container">
