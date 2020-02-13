@@ -13,7 +13,7 @@ title: Home
   </div>
   
   <p> 
-    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://aldro61.github.io/mmit/tutorials/R/">Read more</a>
+    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://aldro61.github.io/mmit/tutorials/R/">Read more</a><span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
  </div>
 
@@ -48,7 +48,7 @@ title: Home
   </div>
   
   <p> 
-    The idea of this project is to detect whenever a person leaves a room empty and if the fans or lights are on then he will get a ping on his smartphone through an app . Also, the lights and fans can be switched off by using the app itself rather than going back inside the room...<a href="https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/">Read more</a>
+    The idea of this project is to detect whenever a person leaves a room empty and if the fans or lights are on then he will get a ping on his smartphone through an app . Also, the lights and fans can be switched off by using the app itself rather than going back inside the room...<a href="https://www.instructables.com/id/Making-Smart-home-Devices-techiniche-boltiot/">Read more</a><span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
  </div>
 
