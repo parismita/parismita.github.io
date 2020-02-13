@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: stool.jpg
 ---
 
-## Projects
-
 <div class="posts">
   <h1>
     <a href="https://aldro61.github.io/mmit/tutorials/R/">MMIT</a>
