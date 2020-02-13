@@ -1,9 +1,6 @@
 ---
-layout: page
-author: "Parismita Das"
-categories: journal
-tags: [documentation,sample]
-image: stool.jpg
+layout: default
+title: Home
 ---
 
 <div class="posts2">
