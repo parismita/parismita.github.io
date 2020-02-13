@@ -9,7 +9,7 @@ title: Home
   </h1>
   
   <div class="thumbnail-container">
-    <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src="https://jan.ucc.nau.edu/~th798/projects/mmit.png"></a>
+    <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c0c4573cb8bc9c03815c664aeeaebb99ae237040/3-Figure1-1.png"></a>
   </div>
   
   <p> 
