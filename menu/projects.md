@@ -16,7 +16,7 @@ title: Home
     There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://aldro61.github.io/mmit/tutorials/R/">Read more</a><span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
  </div>
-
+</br>
 
 {% for post in site.posts %}
  <div class="posts">
