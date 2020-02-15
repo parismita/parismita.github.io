@@ -63,13 +63,13 @@ This Image shows the two gamma showers after reconstruction and the line interse
 From  the  Reconstruction  algorithm,  we  obtain  the  position  of  vertex,  separation angle between the two gamma showers and the invariant mass of pion. Here are some results for pion of energy 0.2, 0.5, 0.8, 1.2 GeV
 
 Separation Angle of gamma showers for 0.2 GeV pion
-<img src="../assets/img/a02.png">
+<img src="../assets/img/a02.pdf">
 Separation Angle of gamma showers for 0.5 GeV pion
-<img src="../assets/img/a05.png">
+<img src="../assets/img/a05.pdf">
 Separation Angle of gamma showers for 0.8 GeV pion
-<img src="../assets/img/a08.png">
+<img src="../assets/img/a08.pdf">
 Separation Angle of gamma showers for 1.2 GeV pion
-<img src="../assets/img/a12.png">
+<img src="../assets/img/a12.pdf">
 
 Figure 5.2 and 5.3 shows the separation angle we get from the MC truth data for0.2  and  0.5  GeV  respectively.   This  is  calculated  but  considering  the  momentuminformation of the two initial gamma.
 
