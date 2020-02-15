@@ -5,15 +5,15 @@ title: Home
 
 <div class="posts2">
   <h1>
-    <a href="https://aldro61.github.io/mmit/tutorials/R/">MMIT</a>
+    <a href="https://parismita.github.io/assets/tutorial">MMIT</a>
   </h1>
   
   <div class="thumbnail-container">
-    <a href="https://aldro61.github.io/mmit/tutorials/R/"><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c0c4573cb8bc9c03815c664aeeaebb99ae237040/3-Figure1-1.png"></a>
+    <a href="https://parismita.github.io/assets/tutorial"><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c0c4573cb8bc9c03815c664aeeaebb99ae237040/3-Figure1-1.png"></a>
   </div>
   
   <p> 
-    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://aldro61.github.io/mmit/tutorials/R/">Read more</a><span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+    There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual regression, the goal is to learn a function that inputs a feature vector and outputs a real-valued prediction...<a href="https://parismita.github.io/assets/tutorial">Read more</a><span class="post-date"> <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
  </div>
 
