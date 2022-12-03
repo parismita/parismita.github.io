@@ -5,7 +5,7 @@ title: Academic!
 
 ### Education
 
-I am currently doing BTech in Engineering Physics at Indian Institute of Technology, Guwahati.
+I did BTech in Engineering Physics at Indian Institute of Technology, Guwahati.
 
 These are the relevant courses I took in IIT, Guwahati.
 
