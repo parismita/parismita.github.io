@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Hello, I am Parismita Das. I am currently doing my Masters at IIT Bombay, in Computer Science and Engineering. I have done my BTech at Indian Institute of Technology, Guwahati in Engineering Phycis .
+Hello, I am Parismita Das. I am currently doing Masters (MTech) at IIT Bombay, in Computer Science and Engineering. I have done my BTech at Indian Institute of Technology, Guwahati in Engineering Phycis .
 
 My interests lie in the area of database systems and largescale system design. I look forward to working further on these fields and widen my knowledge in this area.
 
