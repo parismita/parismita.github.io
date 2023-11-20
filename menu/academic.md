@@ -5,10 +5,40 @@ title: Academic!
 
 ### Education
 
+I am currently a Masters student at Indian Institute of Technology, Bombay.
+The following are the relevant courses I did till now,
+
+Current CGPA : 9.86
+
+<b> Computer Science </b>
+  * Implementation Techniques for Relational Database Systems
+  * Design and Engineering of Computing Systems
+  * Introduction to Blockchains, Cryptocurrencies and Smart Contracts
+  * Stage I Project, R & D Project and Seminar on XData - Automated Testing of SQL Queries 
+  * Foundations of Machine Learning
+  * AI, Data and Policy
+  * Process Engineering
+  * Software Lab
+
 I did BTech in Engineering Physics at Indian Institute of Technology, Guwahati.
 
 These are the relevant courses I took in IIT, Guwahati.
 
+* <b> Mathematics: </b> 
+  * Linear Algebra
+  * Real Analysis
+  * Vector Calculus
+  * Ordinary Differential Equations
+  * Partial Differential Equations
+  * Complex Calculus
+  * Discrete Maths
+
+* <b> Computer Science </b>
+  * Game Theory
+  * Introduction to Computing
+  * Advance Machine Learning
+  * Pattern Recognition and Machine Learning
+  
 * <b> Physics: </b> 
   * Quantum Mechanics
   * Quantum Information and Cryptography
@@ -23,21 +53,6 @@ These are the relevant courses I took in IIT, Guwahati.
   * Optics
   * Nuclear Physics
 
-* <b> Mathematics: </b> 
-  * Linear Algebra
-  * Real Analysis
-  * Vector Calculus
-  * Ordinary Differential Equations
-  * Partial Differential Equations
-  * Complex Calculus
-  * Discrete Maths
-  
-* <b> Computer Science </b>
-  * Game Theory
-  * Introduction to Computing
-  * Advance Machine Learning
-  * Pattern Recognition and Machine Learning
-  
 * <b> Electrical and Electronics </b>
   * Signal Processing
   * Digital Signal Processing
@@ -45,7 +60,5 @@ These are the relevant courses I took in IIT, Guwahati.
   * Communication Systems
   * Electromagnetic Field Theory
   
- For more details , please view my transcript: [Link](https://drive.google.com/file/d/0B4pPnLobYf-HWjhmb09hX09EUFk/view?usp=sharing)
- 
  
   
